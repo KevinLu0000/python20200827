@@ -1,7 +1,7 @@
 # Python基礎及應用課程講義
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victorgau/python_tutorial/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/python_tutorial/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victorgau/python20200827/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/python20200827/)
 
 在本課程中，我們主要會使用[Google Colab](http://colab.research.google.com/)來授課。使用colab的好處是，如果使用者有gmail帳號，就可以直接透過瀏覽器(Browser)來使用Google提供的Python環境，省掉初學者一開始不知道怎麼在自己的電腦上安裝Python環境的困擾。
 
