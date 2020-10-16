@@ -2,7 +2,7 @@
 
 在這個應用裡面，我們使用了兩個套件：
 
-* [folium](folium: https://python-visualization.github.io/folium/)
+* [folium](https://python-visualization.github.io/folium/)
 * [geocoder](https://geocoder.readthedocs.io/)
 
 folium的使用可以參考上面的官網說明。
